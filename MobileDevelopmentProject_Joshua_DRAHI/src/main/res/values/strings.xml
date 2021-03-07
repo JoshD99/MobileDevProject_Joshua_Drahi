@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BankingProject_Joshua_DRAHI</string>
+    <string name="main_title">Login</string>
+    <string name="text_title_main_activity">Login</string>
+    <string name="login_field_text">Password</string>
+    <string name="connect_btn">Connect</string>
+    <string name="accounts_activity_title">My Accounts</string>
+    <string name="response_wait">Response will be displayed here</string>
+    <string name="update_btn">Update</string>
+</resources>
